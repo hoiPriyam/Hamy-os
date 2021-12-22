@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamy-os" alt="hamy-os" /></a> </p>  
   
-- 🔭 I’m currently working on [a rickroll prank script](https://github.com/Hamy-os/rickroll-timebomb)  
+- 🔭 I’m currently working on [a family website](https://github.com/Hamy-os/family-website)  
   
 - 🌱 I’m currently learning **React, Javascript, VBScript and Pythong**  
   
