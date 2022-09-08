@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hamza Alisic!</h1>  
+<h1 align="center">Hi 👋, I'm Hamza!</h1>  
 <h3 align="center">A future full-stack developer from Bosnia!</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamy-os&label=Profile%20views&color=0e75b6&style=flat" alt="hamy-os" /> </p>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamy-os" alt="hamy-os" /></a> </p>  
   
-- 🔭 I’m currently working on [a family website](https://github.com/Hamy-os/family-website)  
   
 - 🌱 I’m currently learning **React, Javascript, VBScript and Pythong**  
   
-- 📫 How to reach me **hamzaalisic0@gmail.com**  
+- 📫 How to reach me **hhamzaa#9803**  
 
   
 <h3 align="left">Languages and Tools:</h3>  
